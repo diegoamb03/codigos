@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T12:55:22.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FONULoRTVH9WVgTmw1Gg" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T14:30:50.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="86cVhlvm3pkQ39BdiV8y" version="17.4.6" type="github">
   <diagram id="ht_ZtzTwHHFAD0yL4isF" name="Page-1">
     <mxGraphModel dx="964" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="NbrUQceEyUwaFnD1Jvw6-5" value="22/04&lt;br&gt;-Creacion de medidas daxx inbound&lt;br&gt;-Optimizacion de consultas de la tabla&lt;br&gt;-Creacion de tablas PBI para visualizacion de filtros&lt;br&gt;-Configuracion de relaciones&lt;br&gt;en bases de datos de personal&lt;br&gt;-Publicacion de informe" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="NbrUQceEyUwaFnD1Jvw6-6" value="29/04&lt;br&gt;-Optimizacion de consultas&lt;br&gt;-Metricas Manual Calls&lt;br&gt;-Conexion de relaciones con base de datos de personal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NbrUQceEyUwaFnD1Jvw6-6" value="28/04&lt;br&gt;-Optimizacion de consultas&lt;br&gt;-Metricas Manual Calls&lt;br&gt;-Conexion de relaciones con base de datos de personal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="315" y="180" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="NbrUQceEyUwaFnD1Jvw6-7" value="29/04&lt;br&gt;-Tiempos de conexion de los agentes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NbrUQceEyUwaFnD1Jvw6-7" value="28/04&lt;br&gt;-Tiempos de conexion de los agentes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="590" y="180" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NbrUQceEyUwaFnD1Jvw6-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.363;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
